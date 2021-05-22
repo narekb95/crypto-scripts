@@ -60,7 +60,7 @@ function createHtmlBody(badCoins) {
 
   return '<html><body>\
   	<H1 style="text-align:center">Price drop allert!</H1>\
-		<font style="font-size:20px">Some coins have plunged below a preset value!<font><p/>\
+		<font style="font-size:20px">Some coins have plunged below a preset value!</font><p/>\
 		<table style="font-size:20px;width:40%;margin-left:10%">' + content + '</table></body></html>';
 }
 
