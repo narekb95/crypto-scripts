@@ -11,4 +11,4 @@ To run a script follow the following steps:
 
 Comments, bug-fixes and feedback are highly appreciated.
 
-If you have suggestions or requests send them to my [email](narekb95@gmail.com).
+If you have suggestions or requests send them to my email <narekb95@gmail.com>.
