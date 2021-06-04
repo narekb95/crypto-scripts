@@ -1,3 +1,5 @@
+# This script takes as input a private key (256 bit integer in hexadecimal) and a number n.
+# It generates n keys such that the xor of all the output-keys is the given private key.
 import os
 import sys
 import binascii
